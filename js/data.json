@@ -1,0 +1,61 @@
+
+   var data = `[
+
+     {
+       "indexF": 0,
+       "title": "Crazy rich asians",
+       "description": "Culture Clash Comed at it's finest",
+       "pic": "img/asians.jpg"
+    }
+   
+   , 
+
+   {
+
+       "indexF": 1,
+       "title": "Mandy",
+       "description": "Direct 2 DVD revenge thriller with Nick Cage ",
+       "pic": "img/mandy.jpg"
+   }
+   
+   ,
+
+   {
+       "indexF": 2,
+       "title": "Firstman",
+       "description": "Biopic of Neil Amstrong",
+       "pic": "img/firstman.jpg"
+   }
+
+   ,
+
+   {
+       "indexF": 3,
+       "title": "Bad times at the El Royale",
+       "description": "New Quentin Tarantino. All you need 2 know",
+       "pic": "img/elroyale.jpg"
+   }
+
+   ,
+
+  {
+       "indexF": 4,
+       "title": "Halloween",
+       "description": "Laurie Strode confronts her brother in the sagas finale",
+       "pic": "img/halloween.jpg"
+   }
+
+   ,
+
+  {
+       "indexF": 5,
+       "title": "A star is born",
+       "description": "An artist helps another artist. Starring Lady Gaga",
+       "pic": "img/star.jpg"
+   }
+
+
+]`;
+
+
+   

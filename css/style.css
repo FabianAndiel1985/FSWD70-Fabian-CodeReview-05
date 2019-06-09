@@ -1,0 +1,65 @@
+@media only screen and (max-width: 1000px) {
+  body main .movie-container {
+    margin-top: 10px; }
+  body main #main-line1 #b-correct1 {
+    margin-right: 20px; }
+  body main #main-line1 #b-correct2 {
+    margin-left: 30px; } }
+.wrapper1 {
+  display: flex;
+  width: 389px;
+  height: 200px;
+  border-radius: 7px 7px 7px 7px;
+  -webkit-box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 14px 32px 0px rgba(0, 0, 0, 0.15); }
+
+.product-img {
+  min-width: 130.96px; }
+
+.product-img img {
+  border-radius: 7px 0 0 7px; }
+
+.product-info {
+  min-height: 200px;
+  width: 210px; }
+
+.product-info .product-text {
+  border-radius: 0 7px 10px 7px;
+  background-color: #ffffff;
+  min-width: 266px;
+  min-height: 200px; }
+
+head {
+  color: white; }
+
+main {
+  margin: 0px 0px; }
+
+#main-line1 {
+  margin-top: 10px 10px; }
+  #main-line1 #b-correct1 {
+    padding-left: 40px; }
+  #main-line1 #b-correct2 {
+    padding-right: 40px; }
+
+#main-line2 {
+  margin: 10px 10px; }
+
+.movie-container {
+  display: flex;
+  justify-content: center; }
+
+#main-line3 {
+  margin: 10px 0px; }
+
+.likeButton {
+  width: 70px; }
+
+footer {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */
